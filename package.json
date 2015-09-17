@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Jaaneey/ExpressCalc/issues"
   },
-  "homepage": "https://github.com/Jaaneey/ExpressCalc#readme"
+  "homepage": "https://github.com/Jaaneey/ExpressCalc#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
 }
